@@ -72,6 +72,8 @@ Enlace de descarga:
 https://drive.google.com/drive/folders/1-3vE2N7NWW1UEE8Vfeg-qnTyyn-A-igJ?usp=sharing
 
 
+si no se entiende, usa el traductor Web, lo mismo hago yo para aprender Python.
+
 
 
 
