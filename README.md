@@ -61,16 +61,15 @@ Ahora podemos comprobar que la información de los cues y demás datos se han re
 
 Eliminar duplicados solo funciona en VDJ 2023, elimina los duplicados de los playlists, seleccione 'Eliminar duplicados', seleccione los playlists a procesar, al ejecutar el proceso se creará una copia de la carpeta VDJ_Backup dentro de las preferencias de VDJ, en cualquier momento puede reemplazar esta copia por la nueva. Ahora los playlists de VDJ ya no tienen duplicados, esta función está deshabilitada si VDJTools detecta que está usando la nueva versión de VDJ 2024 que ahora mismo está en fase BETA, en la cual se han eliminado los 'playlists' y se han cambiado por archivos xml dentro de la carpeta 'MyList'.
 
-Espero que no tengáis problemas con temas de antivirus o permisos.
+Espero que no tengáis problemas con temas de antivirus o permisos, esta app solo la he probado en mis equipos y maquinas virtuales.
 
 Si tenéis algún problema o alguna idea podéis dejarla en los comentarios.
 
-2 años estudiando Python como hobby, de algo ha servido.
-
 Mis hobbies, la música y la programación.
 
+Enlace de descarga:
 
-
+https://drive.google.com/drive/folders/1-3vE2N7NWW1UEE8Vfeg-qnTyyn-A-igJ?usp=sharing
 
 
 
