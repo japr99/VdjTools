@@ -22,7 +22,7 @@ Seleccione el playlist o playlists a procesar.
 
 ![VDJ a IDtag](https://github.com/japr99/VdjTools/assets/60424156/604aaf28-b357-44b4-ae7b-e0833b930ac0)
 
-Ejecute el proceso, TENGA PACIENCIA, LAS BASES DE DATOS DE VDJ PUEDEN SER MUY GRANDES Y PUEDE TARDAR.
+Ejecute el proceso, TENGA PACIENCIA, LAS BASES DE DATOS DE VDJ PUEDEN SER MUY GRANDES Y LOS ARCHIVOS DE AUDIO TINEN QUE SER PROCESADOS, PUEDE TARDAR BASTANTE TIEMPO SI HAY MUCHO POR PROCESO PERO NO CORTE EL PROCESO.
 
 'Omitir fecha última modificación' comprueba la fecha de la base de datos con los datos de IDTag. Si ya están en el archivo de audio, simplemente, si tienen la misma fecha no se modificará el archivo de audio (este tema es un poco relativo, VDJ mueve mucho este valor).
 
