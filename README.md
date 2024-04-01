@@ -2,11 +2,11 @@
 
 Vamos a llamar a VirtualDJ, VDJ.
 
+Esta utilidad guarda los datos, tag's cues, loops, etc., en el ID3Tag del audio para poder ser recuperado en la base de datos de VDJ.
+
 Esta utilidad solo es compatible con VDJ 2023 y 2024.
 
 Esta utilidad solo soporta los formatos de audio: mp3, wav, aiff y flac.
-
-Esta utilidad guarda los datos, tag's cues, loops, etc., en el ID3Tag del audio para poder ser recuperado en la base de datos de VDJ.
 
 Esta utilidad también elimina duplicados en los playlists de VDJ 2023. Si usa VDJ 2024, se deshabilitará, ya está incluido en esta versión.
 
