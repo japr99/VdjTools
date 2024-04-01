@@ -37,13 +37,13 @@ Si todo ha ido bien, los datos estarán guardados en el archivo de audio, lo com
 ![mp3tag1](https://github.com/japr99/VdjTools/assets/60424156/f27e31d7-4fad-4d07-8e5f-c87e0d4bf5f0)
 ![mp3tag2](https://github.com/japr99/VdjTools/assets/60424156/8b3b4b23-e16f-4155-9e1f-ed5831004cdf)
 
-No manipule los datos, puede tener alguna sorpresa como perder la base de datos de VDJ al importar los datos, los datos aunque no lo parezca están en un formato especial.
+No manipule los datos, puede tener alguna sorpresa como perder la base de datos de VDJ al importar los datos, los datos aunque no lo parezca están en un formato especial y pueden tener caracteres ocultos, modifiquelos en VDJ.
 
-Ahora voy a eliminar los cues y la información de estas 2 canciones, en VDJ para hacer la importación, como se ve en la imagen las canciones tienen los cues y demás datos eliminados.
+Ahora vamos a eliminar los cues y la información de estas 2 canciones, en VDJ para hacer la importación, como se ve en la imagen las canciones tienen los cues y demás datos eliminados.
 
 ![carga_playlist IDTag a VDJ](https://github.com/japr99/VdjTools/assets/60424156/82687f05-aae0-4ee4-866a-cfdc59de0570)
 
-Cierro VDJ y vamos a importar los datos del IDTag del audio a la base de datos de VDJ.
+Cerramos VDJ y vamos a importar los datos del IDTag del audio a la base de datos de VDJ.
 
 Abrimos VDJTools y seleccionamos 'IDTag a VDJ' y seleccionamos el playlist a procesar, igualmente que en el anterior proceso 'Omitir fecha última modificación' funciona pero al revés que el proceso anterior, seleccionado esta opción no comprueba fechas e importa los datos.
 
