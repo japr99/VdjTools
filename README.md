@@ -16,7 +16,7 @@ Seleccione 'Desabilita HotPlug' para que el playlist sea movido a la carpeta de 
 
 ![VDJ a IDTag](https://github.com/japr99/VdjTools/assets/60424156/2fa2b79f-e5c1-4d97-9682-781a7c583426)
 
-Después de crear el playlist abrimos VdjTools y seleccionamos 'VDJ a IDTag', la aplicación buscará en la carpeta de preferencias de VDJ los playlists a cargar. Si VdjTools detecta 2 carpetas de preferencias de VDJ, una en 'Documentos' y otra en '/Library/Application/Support/VirtualDJ' si es MAC, '\AppData\Local\VirtualDJ' si es PC, VdjTools no continuará, no se puede tener 2 carpetas de VDJ en el root del sistema, son restos de viejas instalaciones. En VDJ, desde 'opciones de configuración', esquina inferior derecha, pulse sobre el engranaje, se abrirá la carpeta de preferencias de VDJ, esta es la buena, la que esté en otro lugar sobra.
+Después de crear el playlist abrimos VdjTools y seleccionamos 'VDJ a IDTag', la aplicación buscará en la carpeta de preferencias de VDJ los playlists a cargar. Si VdjTools detecta 2 carpetas de preferencias de VDJ, una en 'Documentos' y otra en '/Library/Application/Support/VirtualDJ' si es MAC, '\AppData\Local\VirtualDJ' si es PC, y en las dos hay una carpeta 'MyList' o 'playlists', VdjTools no continuará, no se puede tener 2 carpetas de VDJ con carpetas 'MyList' o 'playlists' en el root del sistema, puede tener problemas.
 
 Seleccione el playlist o playlists a procesar.
 
